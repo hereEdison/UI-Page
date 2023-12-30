@@ -232,18 +232,18 @@ ul li a:hover{
     padding-bottom: 10px;
     text-align: center;
 }
-.icons a{
+.icon a{
     text-decoration: none;
     color: #fff;
 }
-.icons ion-icon{
+.icon ion-icon{
     color: #fff;
     font-size: 30px;
-    padding-left:14px;
+    padding-left:6px;
     padding-top: 20px;
 
 }
-.icons ion-icon:hover{
+.icon ion-icon:hover{
     color: #ff7200;
 
 }
